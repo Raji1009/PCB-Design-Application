@@ -1,6 +1,6 @@
 # PCB-Design-Application
 # Aim
-
+To design a clap switch circuit diagram
 
 # Software required
 Eagle
